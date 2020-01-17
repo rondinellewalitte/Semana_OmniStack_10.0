@@ -2,7 +2,8 @@
 
 const express = require('express');
 const mongoose = require('mongoose');
-const routes = require('./routes')
+const routes = require('./routes');
+const cors = require('cors');
 
 //|------------------ INICIANDO APLICAÇÃO --------------------|//
 
@@ -16,6 +17,7 @@ mongoose.connect('mongodb+srv://omnistack:omnistack@cluster0-ohjf1.mongodb.net/w
 });
 
 //SETANDO JSON NO EXPRESS
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 
