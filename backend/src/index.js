@@ -4,11 +4,16 @@ const express = require('express');
 const mongoose = require('mongoose');
 const routes = require('./routes');
 const cors = require('cors');
+const http = require('http');
+const {setupWebsocket} = require('./websocket');
 
 //|------------------ INICIANDO APLICAÇÃO --------------------|//
 
 // INICIANDO EXPRESS
 const app = express();
+const server = http.Server(app);
+
+setupWebsocket(server);
 
 // INICIANDO BANCO DE DADOS MONGODB-ATHAS
 mongoose.connect('mongodb+srv://omnistack:omnistack@cluster0-ohjf1.mongodb.net/week10?retryWrites=true&w=majority',{
@@ -22,4 +27,4 @@ app.use(express.json());
 app.use(routes);
 
 //SETANDO PORTA PARA ESCUTA DO EXPRESS
-app.listen(3333);
+server.listen(3333);
