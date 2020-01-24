@@ -35,7 +35,7 @@ Abra seu terminal e de um git clone
 ```
 git clone https://github.com/rondinellewalitte/Semana_OmniStack_10.0.git
 ```
-## :hammer_and_wrench: Instalando backend :
+## :hammer_and_wrench: Instalando backend
 
 ```
 cd Semana_OmniStack_10.0
