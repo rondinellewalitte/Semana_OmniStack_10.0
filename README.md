@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias" style="color:#8e4dff;">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project" style="color:#8e4dff;">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologias" style="color:#8e4dff;">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Projeto" style="color:#8e4dff;">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout-Projeto" style="color:#8e4dff;">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalando" style="color:#8e4dff;">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença" style="color:#8e4dff;">Licença</a>
@@ -16,7 +16,7 @@
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## Tecnologias
+## #Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## Projeto
+## :computer: Projeto
 Composto de 3 partes, back-end, Web e Mobile, onde desenvolvedores, se cadastram no Web e disponibiliza seu contando no GitHub e sua localização baseada no navegador, colocando também as tecnologias que o mesmo trabalha atualmente, na parte mobile de forma automática e em Real Time com o Web, você pode filtrar e buscar outros devs em uma distância de até 10km, visualizando no maps a localização e as tecnologias que o mesmo trabalha, clicando no dev o perfil do GitHub abre. Na parte do back-end a api RESTful feita nos padrões MVC, comunicando com os apps "android e ios" e  a parte Web.
 
 
