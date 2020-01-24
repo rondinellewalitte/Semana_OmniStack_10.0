@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="#Tecnologias" style="color:#8e4dff;">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Projeto" style="color:#8e4dff;">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout-Projeto" style="color:#8e4dff;">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instalando" style="color:#8e4dff;">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença" style="color:#8e4dff;">Licença</a>
+  <a href="#Tecnologias" class="text-purple mb-2">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout-Projeto">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalando">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <br>
@@ -16,12 +16,12 @@
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## #Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
@@ -29,13 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Composto de 3 partes, back-end, Web e Mobile, onde desenvolvedores, se cadastram no Web e disponibiliza seu contando no GitHub e sua localização baseada no navegador, colocando também as tecnologias que o mesmo trabalha atualmente, na parte mobile de forma automática e em Real Time com o Web, você pode filtrar e buscar outros devs em uma distância de até 10km, visualizando no maps a localização e as tecnologias que o mesmo trabalha, clicando no dev o perfil do GitHub abre. Na parte do back-end a api RESTful feita nos padrões MVC, comunicando com os apps "android e ios" e  a parte Web.
 
 
-## Download
+## :inbox_tray: Download
 
 Abra seu terminal e de um git clone
 ```
 git clone https://github.com/rondinellewalitte/Semana_OmniStack_10.0.git
 ```
-## Instalando back-end :
+## :hammer_and_wrench: Instalando back-end :
 
 ```
 cd Semana_OmniStack_10.0
@@ -52,7 +52,7 @@ yarn install
 ```
 yarn dev
 ```
-## Instalando Web :
+## :tv: Instalando Web :
 
 ```
 cd Semana_OmniStack_10.0
@@ -70,7 +70,7 @@ yarn install
 yarn start
 ```
 
-## Instalando Mobile :
+## :iphone: Instalando Mobile :
 
 ```
 cd Semana_OmniStack_10.0
