@@ -6,7 +6,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#inbox_tray-download">Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-instalando back-end">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer_and_wrench-instalando-backend">Instalando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -35,7 +35,7 @@ Abra seu terminal e de um git clone
 ```
 git clone https://github.com/rondinellewalitte/Semana_OmniStack_10.0.git
 ```
-## :hammer_and_wrench: Instalando back-end :
+## :hammer_and_wrench: Instalando backend :
 
 ```
 cd Semana_OmniStack_10.0
