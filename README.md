@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1 align="center" style="color:#8e4dff;"> DevRadar </h2>  
+      <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -65,7 +65,7 @@ yarn install
 ```
 @obs: Se sua maquina nao tiver o yarn instalado pode instalar atraves desse link:
 [Install Yarn](https://yarnpkg.com/en/docs/install)
-## Executando Web :
+### Executando Web :
 ```
 yarn start
 ```
@@ -83,7 +83,7 @@ yarn install
 ```
 @obs: Se sua maquina nao tiver o yarn instalado pode instalar atraves desse link:
 [Install Yarn](https://yarnpkg.com/en/docs/install)
-## Executando Web :
+### Executando Mobile :
 ```
 yarn start
 ```
